@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Montserrat&family=Ubuntu+Mono&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -9,7 +11,7 @@
 body {
     background-color: #fdffe6;
     color: #030033;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
